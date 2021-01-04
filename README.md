@@ -7,4 +7,4 @@
 
 
 Here is how it looks like:
-![login](https://github.com/chiaradiaz1991/Auth0-ExpressJs/screenshot.png)
+![login](https://github.com/chiaradiaz1991/Auth0-ExpressJs/blob/master/screenshot.png)
